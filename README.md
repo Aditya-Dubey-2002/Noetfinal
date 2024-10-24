@@ -17,7 +17,7 @@ This project is the official website for the N0ET’22 conference, developed to 
   
 ## How to Access
 
-The N0ET’22 Conference website can be accessed at the following URL:  
+The N0ET’22 Conference website can be accessed at the following URL:  https://aditya-dubey-2002.github.io/Noetfinal/
 ****
 
 ## Installation and Setup
