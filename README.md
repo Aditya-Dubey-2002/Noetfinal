@@ -26,7 +26,7 @@ Since this is a static website, no installation is required. To view the website
 
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/Aditya-Dubey-2002/Noetfinal)
+   git clone https://github.com/Aditya-Dubey-2002/Noetfinal
 2. Navigate to the project Directory
     ```bash
     cd N0ET-Conference-Website
